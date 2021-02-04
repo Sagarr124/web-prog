@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+	font-family: Quicksand Medium, Comic Sans MS, sans serif;
+	color: black !important;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h4 {
+	width: 100%;
+	position: absolute;
+	font-weight: bold;
+	text-align: center;
+	padding-right: 30px;
+	padding-top: 25px;
+}
+
+p {
+	width: 90%;
+	height: 1000px;
+	background-color: #A9A9A9;
+  	overflow: hidden;
+  	margin: 30px auto;
+  	padding: 20px;
+  	padding-top: 40px;
+}
+hr {
+	margin: 0;
+}
+
+.navbar {
+	background-color: #A9A9A9;
+}
+
+.navbar-brand {
+	font-size: 1.8em;
+	font-weight: bold;
+	padding-left: 30px;
+}
+
+#nav-list {
+	margin: 0;
+	background-color: white;
+}
